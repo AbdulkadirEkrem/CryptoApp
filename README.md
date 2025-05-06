@@ -39,7 +39,7 @@ Hayır. CoinGecko API'si ücretsiz ve anahtarsızdır. Doğrudan kullanılabilir
 ##
 👨‍💻 Geliştirici
 Abdulkadir Ekrem
-LinkedIn Profilim
+www.linkedin.com/in/abdulkadirekrem
 📧 abdulkadirekrem@gmail.com
 
 ⭐ Projeyi faydalı bulduysanız yıldızlamayı unutmayın!
